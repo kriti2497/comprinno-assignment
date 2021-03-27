@@ -36,7 +36,7 @@ assignOne.addEventListener('click', () => {
         }else{
             // check from last element of array
             for(let i = sortedArr.length -1; i>=0; i--){
-                // fibonacci formula
+                // fibonacci formula             
                 if(sortedArr[i] == sortedArr[i-1]+ sortedArr[i-2]){
                     console.log('OUTPUT: Dynamic')
                     break
