@@ -52,6 +52,8 @@ assignOne.addEventListener('click', () => {
 
 });
 
+
+// Not Done
 // Ordering Teams
 // assignTwo.addEventListener('click', () => {
 //     const person1 = prompt(`Enter person 1 values separated by a space:`, '');
@@ -182,6 +184,8 @@ assignFive.addEventListener('click', () => {
     }
 });
 
+
+// Not Done
 // assignSix.addEventListener('click', );
 
 // assignSeven.addEventListener('click', );
